@@ -3,7 +3,7 @@
 
 ## Overview  
 
-This directory contains the code and data used for the experiments prensented in the paper [Short-Term Meaning Shift: A Distributional Exploration](https://arxiv.org/abs/1809.03169), to appear in Proceedings of NAACL-HLT 2019. 
+This directory contains the code and data used for the experiments prensented in the paper [Short-Term Meaning Shift: A Distributional Exploration](https://arxiv.org/abs/1809.03169), to appear in the Proceedings of NAACL-HLT 2019. 
 
 We release the following material:
 
