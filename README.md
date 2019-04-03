@@ -37,9 +37,9 @@ The dataset annotated by the members of r/LiverpoolFC is provided in .csv format
 ## References
 If you use this code or dataset, please cite the following paper:
 ~~~~
-@inproceedings{del2019short-term,
+@booktitle{del2019short-term,
   title={Short-Term Meaning Shift: A Distributional Exploration},
-  author={Del Tredici, Marco, Fern{\'a}ndez, Raquel and Boleda, Gemma},
+  author={Del Tredici, Marco and Fern{\'a}ndez, Raquel and Boleda, Gemma},
   journal={To appear in Proceedings of NAACL-HLT 2019 (Annual Conference of the North American Chapter of the Association for Computational Linguistics)},
   year={2019}
 }
