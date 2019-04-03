@@ -35,7 +35,7 @@ The dataset annotated by the members of r/LiverpoolFC is provided in .csv format
 
 
 ## References
-If you use this dataset, please cite the following papers:
+If you use this code or dataset, please cite the following paper:
 ~~~~
 @inproceedings{del2019short-term,
   title={Short-Term Meaning Shift: A Distributional Exploration},
