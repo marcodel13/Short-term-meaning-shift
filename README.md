@@ -12,7 +12,7 @@ We release the following material:
 
 ###  Requirements:
 
-In order to run the mode, Python 3 is required. You can install all the required packages using the following command:
+In order to run the model, Python 3 is required. You can install all the required packages using the following command:
 
     $ pip install -r requirements.txt
 
@@ -27,7 +27,7 @@ In order to initialize the word embeddings for time bin _t_ with those in _t-1_ 
 
     python3 create_vectors_preinitialization.py -data_t <data_file_for_time_t> -data_t_minus_1 <data_file_for_time_t-1> -vectors <vectors computed for t-1> -output <output_directory> 
 
-For both the files, it is possible to pass as arguments the hyperparameters of the model.
+For both files, it is possible to pass as arguments the hyperparameters of the model.
 
 ###  Dataset:
 
