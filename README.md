@@ -33,11 +33,9 @@ For both files, it is possible to pass as arguments the hyperparameters of the m
 
 The dataset is provided in the in two files: 
 
-
-- `./Dataset/annotated_words.xls`: the annotation by the redditors. For each word, there are two columns: change/no change/ 
 - `./Dataset/contexts.txt`: the examples showed to the redditors. 
+- `./Dataset/annotated_words.xls`: the annotation by the redditors.  
  
-
 
 ## References
 If you use this code or dataset, please cite the following paper:
