@@ -31,7 +31,12 @@ For both files, it is possible to pass as arguments the hyperparameters of the m
 
 ###  Dataset:
 
-The dataset annotated by the members of r/LiverpoolFC is provided in .csv format. 
+The dataset is provided in the in two files: 
+
+
+- `./Dataset/annotated_words.xls`: the annotation by the redditors. For each word, there are two columns: change/no change/ 
+- `./Dataset/contexts.txt`: the examples showed to the redditors. 
+ 
 
 
 ## References
