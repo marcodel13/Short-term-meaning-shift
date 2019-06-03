@@ -35,7 +35,7 @@ The dataset is provided in the in two files:
 
 - `./Dataset/LiverpoolFC_[13|17].txt.zip`: the linguistic content produced by the members of r/LiverpoolFC in the two time bins 2011/13 and 2017.
 - `./Dataset/contexts.txt`: the examples showed to the redditors. For each word, the contexts of use in the two time bins. 
-- `./Dataset/annotated_words.xls`: the annotation by the redditors. For each line: id, target word, shift index value, annotation provided by redditors: [change|no_change|not_available(NA)]
+- `./Dataset/annotated_words.csv`: the annotation by the redditors. For each line: id, target word, shift index value, annotation provided by redditors: [change|no_change|not_available(NA)]
  
 
 ## References
