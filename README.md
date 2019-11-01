@@ -4,7 +4,7 @@
 ## Overview  
 
 This directory contains the code and data used for the experiments prensented in the paper [Short-Term Meaning Shift: A Distributional Exploration](https://arxiv.org/abs/1809.03169), included in the Proceedings of NAACL-HLT 2019. 
-The final paper is in `./Paper/`, while the slides used for short presentation are in `./Slides/`
+The final paper is in `./Paper/`, while the slides used for short presentation at NAACL-HLT 2019 are in `./Slides/`.
 
 We release the following material:
 
