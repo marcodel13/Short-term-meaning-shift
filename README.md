@@ -42,11 +42,10 @@ The dataset is provided in the in two files:
 ## References
 If you use this code or dataset, please cite the following paper:
 ~~~~
-@booktitle{del2019short-term,
-  title={{S}hort-{T}erm {M}eaning {S}hift: {A} {D}istributional {E}xploration},
-  author={Del Tredici, Marco and Fern{\'a}ndez, Raquel and Boleda, Gemma},
-  journal={in Proceedings of NAACL-HLT 2019 (Annual Conference of the North American Chapter of the Association for Computational Linguistics)},
-  year={2019},
-  note = {To appear}
-}
+@inproceedings{del2019short-term,
+	Author = {Del Tredici, Marco and Fern{\'a}ndez, Raquel and Boleda, Gemma},
+	Booktitle = {in Proceedings of NAACL-HLT 2019 (Annual Conference of the North American Chapter of the Association for Computational Linguistics)},
+	Title = {Short-Term Meaning Shift: A Distributional Exploration},
+	Year = {2019}
+  }
 ~~~~
