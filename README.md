@@ -45,7 +45,7 @@ If you use this code or dataset, please cite the following paper:
 @inproceedings{del2019short-term,
 	Author = {Del Tredici, Marco and Fern\'andez, Raquel and Boleda, Gemma},
 	Booktitle = {Proceedings of NAACL-HLT 2019 (Annual Conference of the North American Chapter of the Association for Computational Linguistics)},
-	Title = {Short-Term Meaning Shift: A Distributional Exploration},
+	Title = {{Short-Term Meaning Shift: A Distributional Exploration}},
 	Year = {2019}
   }
 ~~~~
