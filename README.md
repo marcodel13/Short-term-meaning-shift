@@ -15,7 +15,7 @@ We release the following material:
 
 To run the model, Python 3 is required. You can install all the required packages using the following command:
 
-    $ pip install -r requirements.txt
+    $ pip3 install -r requirements.txt
 
 
 ###  Running the code:
@@ -28,7 +28,7 @@ In order to initialize the word embeddings for time bin _t_ with those in _t-1_ 
 
     python3 create_vectors_preinitialization.py -data_t <data_file_for_time_t> -data_t_minus_1 <data_file_for_time_t-1> -vectors <vectors computed for t-1> -output <output_directory> 
 
-For both files, it is possible to pass as arguments the hyperparameters of the model.
+For both files, it is possible to pass as arguments the hyper-parameters of the model.
 
 ###  Dataset:
 
