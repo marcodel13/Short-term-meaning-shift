@@ -13,7 +13,7 @@ We release the following material:
 
 ###  Requirements:
 
-In order to run the model, Python 3 is required. You can install all the required packages using the following command:
+To run the model, Python 3 is required. You can install all the required packages using the following command:
 
     $ pip install -r requirements.txt
 
